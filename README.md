@@ -1,4 +1,8 @@
 ### Hi there 👋
+[![yangguohao's GitHub stats](https://github-readme-stats.vercel.app/api?username=yangguohao&count_private=True)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yangguohao&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **yangguohao/yangguohao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
